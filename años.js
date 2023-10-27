@@ -5,6 +5,6 @@ function anosADias(anos) {
 }
 
 // Ejemplo de uso:
-const anos = 1;
+const anos = 2;
 const dias = anosADias(anos);
 console.log(`${anos} años son aproximadamente ${dias} días.`);

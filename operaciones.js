@@ -23,8 +23,8 @@ function division(a, b) {
 }
 
 // Ejemplo de uso:
-const numero1 = 100;
-const numero2 = 50;
+const numero1 = 10;
+const numero2 = 10;
 
 console.log(`Suma: ${numero1} + ${numero2} = ${suma(numero1, numero2)}`);
 console.log(`Resta: ${numero1} - ${numero2} = ${resta(numero1, numero2)}`);
